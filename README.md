@@ -1,2 +1,2 @@
 # CV-Css
-A Resume built with more Css
+A Resume built with Html and Css
